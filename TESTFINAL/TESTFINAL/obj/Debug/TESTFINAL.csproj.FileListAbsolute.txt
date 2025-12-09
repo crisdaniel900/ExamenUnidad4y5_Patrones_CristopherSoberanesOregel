@@ -1,0 +1,7 @@
+C:\Users\luigu\OneDrive\Documentos\2025\7mo Semestre\Patrones\U4\TESTFINAL\TESTFINAL\bin\Debug\TESTFINAL.exe.config
+C:\Users\luigu\OneDrive\Documentos\2025\7mo Semestre\Patrones\U4\TESTFINAL\TESTFINAL\bin\Debug\TESTFINAL.exe
+C:\Users\luigu\OneDrive\Documentos\2025\7mo Semestre\Patrones\U4\TESTFINAL\TESTFINAL\bin\Debug\TESTFINAL.pdb
+C:\Users\luigu\OneDrive\Documentos\2025\7mo Semestre\Patrones\U4\TESTFINAL\TESTFINAL\obj\Debug\TESTFINAL.csproj.AssemblyReference.cache
+C:\Users\luigu\OneDrive\Documentos\2025\7mo Semestre\Patrones\U4\TESTFINAL\TESTFINAL\obj\Debug\TESTFINAL.csproj.CoreCompileInputs.cache
+C:\Users\luigu\OneDrive\Documentos\2025\7mo Semestre\Patrones\U4\TESTFINAL\TESTFINAL\obj\Debug\TESTFINAL.exe
+C:\Users\luigu\OneDrive\Documentos\2025\7mo Semestre\Patrones\U4\TESTFINAL\TESTFINAL\obj\Debug\TESTFINAL.pdb
